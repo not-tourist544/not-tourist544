@@ -1,6 +1,6 @@
 <!-- Header Section with Profile Picture -->
 <div align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/yourprofilepicture.jpg" alt="Sanaatan's Profile" width="200" height="200"/>
+  <img src="https://avatars.githubusercontent.com/u/20459883?v=4" alt="Sanaatan's Profile" width="200" height="200"/>
   
   <h1>Hi 👋, I'm Sanaatan</h1>
   <p>A passionate Data Scientist from India</p>
