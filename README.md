@@ -22,7 +22,6 @@
 - 👯 I’m looking to collaborate on Data Science (ML, DL, LLM) projects
 - 💬 Ask me about **Machine Learning**
 - 📫 How to reach me: [sanaatan0504@gmail.com](mailto:sanaatan0504@gmail.com)
-- ⚡ Fun fact: I sing 🎤
 
 ---
 
